@@ -1,0 +1,42 @@
+<div class="container">
+    <header>
+        <div class="logo"><img src="{{url_for('static', filename='images/Logo.svg')}}"></div>
+        <nav class="navbar">
+            <ul>
+                <li>
+                    <a href="{{ url_for('index') }}" >Home</a>
+                </li>
+                <li>
+                    <a href="#" onclick="wip()">Projects</a>
+                </li>
+                <li>
+                    <a href="#" onclick="wip()">Interests</a>
+                </li>
+                <li>
+                    <a href="#" onclick="wip()">About</a>
+                </li>
+            </ul>
+        </nav>
+        <script>
+            function wip() {
+                alert("Work in Progress");
+            }
+            </script>
+    </header>
+    <main>
+        <p style="font-size:48px; color:coral">Hi, I&#x27;m Dragan!</p>
+        <p style="font-size:36px">I&#x27;m a graduate student in CS<br>at the University of Udine<br></p>
+        <p style="font-size:36px">Here I&#x27;ll share<br>projects I&#x27;m working on and<br>other stuff I enjoy</p>
+        <div class="socials">
+            <div class="social-icon">
+                <a href="https://github.com/Nagard98"><img src="{{url_for('static', filename='images/GitHub-icon.png')}}"></a>
+            </div>
+            <div class="social-icon">
+                <a href="https://www.linkedin.com/in/dragan-vuletic-043662145"><img src="{{url_for('static', filename='images/linked.png')}}"></a>
+            </div>
+            <div class="social-icon">
+                <a href="https://anilist.co/user/Nagard/"><img src="{{url_for('static', filename='images/AniList-icon.png')}}"></a>
+            </div>
+        </div>       
+    </main>
+</div>
