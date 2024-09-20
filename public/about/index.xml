@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Nagard98</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Nagard98</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dragan.vule98@gmail.com (Dragan Vuletic)</managingEditor>
+    <webMaster>dragan.vule98@gmail.com (Dragan Vuletic)</webMaster>
+    <copyright>© 2024 Dragan Vuletic</copyright>
+    <lastBuildDate>Wed, 18 Sep 2024 23:35:44 +0200</lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Wed, 18 Sep 2024 23:35:44 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

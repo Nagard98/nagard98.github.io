@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nagard98</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Nagard98</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dragan.vule98@gmail.com (Dragan Vuletic)</managingEditor>
+    <webMaster>dragan.vule98@gmail.com (Dragan Vuletic)</webMaster>
+    <copyright>© 2024 Dragan Vuletic</copyright>
+    <lastBuildDate>Wed, 18 Sep 2024 23:51:37 +0200</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zorya Renderer</title>
+      <link>http://localhost:1313/projects/zorya-renderer/</link>
+      <pubDate>Wed, 18 Sep 2024 23:57:05 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/projects/zorya-renderer/</guid>
+      <description>A DX11 real-time renderer developed as a way to experiment with interesting rendering and engine features. Uses a &lt;strong&gt;Render Graph&lt;/strong&gt; to ease the implemenentation of new features by automatically managing transient resources. One of the main features is the presence of multiple &lt;strong&gt;subsurface scattering&lt;/strong&gt; techniques. Planning to also integrate a DX12 backend.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/zorya-renderer/feature.png" />
+    </item>
+    
+    <item>
+      <title>Monsters &amp; Gold</title>
+      <link>http://localhost:1313/projects/monsters-and-gold/</link>
+      <pubDate>Thu, 19 Sep 2024 00:10:56 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/projects/monsters-and-gold/</guid>
+      <description>Exergame developed in Unity during my internship at the HCI Lab of the University of Udine. The game was initially designed for old mobile devices and my job was to implement it with current technolgies and add support for a &lt;strong&gt;VR headset&lt;/strong&gt; and &lt;strong&gt;treadmill&lt;/strong&gt;, allowing for full body movement.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/monsters-and-gold/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Approximate MVBB Visualizer</title>
+      <link>http://localhost:1313/projects/approx-mvbb/</link>
+      <pubDate>Thu, 19 Sep 2024 00:14:08 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/projects/approx-mvbb/</guid>
+      <description>Tool for computing and visualizing an approximate Minimum Volume Bounding Box (MVBB) given a 3D Model. The algorithm is based on the &amp;lsquo;&amp;rsquo;&lt;strong&gt;Efficiently Approximating the Minimum-Volume Bounding Box of a Point Set in Three Dimensions&lt;/strong&gt;&amp;rsquo;&amp;rsquo; paper from Barequet and Har-Peled. For some internal algorithms I used those provided with the CGAL library.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/approx-mvbb/feature.png" />
+    </item>
+    
+    <item>
+      <title>Wardrobe Geek</title>
+      <link>http://localhost:1313/projects/wardrobe-geek/</link>
+      <pubDate>Thu, 19 Sep 2024 12:20:38 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/projects/wardrobe-geek/</guid>
+      <description>Prototype of an application for managing your own wardrobe and sharing it with other users. You can create your own outfits from single clothing items or add directly those created by other users. There is also a badge system for users that share the most popular outfits.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/wardrobe-geek/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

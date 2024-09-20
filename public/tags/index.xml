@@ -1,13 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Dragan</title>
+    <title>Tags on Nagard98</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Dragan</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
+    <description>Recent content in Tags on Nagard98</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <managingEditor>dragan.vule98@gmail.com (Dragan Vuletic)</managingEditor>
     <webMaster>dragan.vule98@gmail.com (Dragan Vuletic)</webMaster>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Dragan Vuletic</copyright>
+    <lastBuildDate>Thu, 19 Sep 2024 12:20:38 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dart</title>
+      <link>http://localhost:1313/tags/dart/</link>
+      <pubDate>Thu, 19 Sep 2024 12:20:38 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/dart/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>http://localhost:1313/tags/flutter/</link>
+      <pubDate>Thu, 19 Sep 2024 12:20:38 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/flutter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
+      <pubDate>Thu, 19 Sep 2024 00:14:08 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CGAL</title>
+      <link>http://localhost:1313/tags/cgal/</link>
+      <pubDate>Thu, 19 Sep 2024 00:14:08 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/cgal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computational Geometry</title>
+      <link>http://localhost:1313/tags/computational-geometry/</link>
+      <pubDate>Thu, 19 Sep 2024 00:14:08 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/computational-geometry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Qt</title>
+      <link>http://localhost:1313/tags/qt/</link>
+      <pubDate>Thu, 19 Sep 2024 00:14:08 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/qt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>http://localhost:1313/tags/c%23/</link>
+      <pubDate>Thu, 19 Sep 2024 00:10:56 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/c%23/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Treadmill</title>
+      <link>http://localhost:1313/tags/treadmill/</link>
+      <pubDate>Thu, 19 Sep 2024 00:10:56 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/treadmill/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/tags/unity/</link>
+      <pubDate>Thu, 19 Sep 2024 00:10:56 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/unity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>http://localhost:1313/tags/vr/</link>
+      <pubDate>Thu, 19 Sep 2024 00:10:56 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/vr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C/C&#43;&#43;</title>
+      <link>http://localhost:1313/tags/c/c&#43;&#43;/</link>
+      <pubDate>Wed, 18 Sep 2024 23:57:05 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/c/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DX11</title>
+      <link>http://localhost:1313/tags/dx11/</link>
+      <pubDate>Wed, 18 Sep 2024 23:57:05 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/dx11/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rendering</title>
+      <link>http://localhost:1313/tags/rendering/</link>
+      <pubDate>Wed, 18 Sep 2024 23:57:05 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/tags/rendering/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

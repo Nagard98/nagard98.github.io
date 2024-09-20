@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rendering on Nagard98</title>
+    <link>http://localhost:1313/tags/rendering/</link>
+    <description>Recent content in Rendering on Nagard98</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dragan.vule98@gmail.com (Dragan Vuletic)</managingEditor>
+    <webMaster>dragan.vule98@gmail.com (Dragan Vuletic)</webMaster>
+    <copyright>© 2024 Dragan Vuletic</copyright>
+    <lastBuildDate>Wed, 18 Sep 2024 23:57:05 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/rendering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zorya Renderer</title>
+      <link>http://localhost:1313/projects/zorya-renderer/</link>
+      <pubDate>Wed, 18 Sep 2024 23:57:05 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/projects/zorya-renderer/</guid>
+      <description>A DX11 real-time renderer developed as a way to experiment with interesting rendering and engine features. Uses a &lt;strong&gt;Render Graph&lt;/strong&gt; to ease the implemenentation of new features by automatically managing transient resources. One of the main features is the presence of multiple &lt;strong&gt;subsurface scattering&lt;/strong&gt; techniques. Planning to also integrate a DX12 backend.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/zorya-renderer/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

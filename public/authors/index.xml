@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Nagard98</title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors on Nagard98</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dragan.vule98@gmail.com (Dragan Vuletic)</managingEditor>
+    <webMaster>dragan.vule98@gmail.com (Dragan Vuletic)</webMaster>
+    <copyright>© 2024 Dragan Vuletic</copyright>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

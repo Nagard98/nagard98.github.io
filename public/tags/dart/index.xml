@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dart on Nagard98</title>
+    <link>http://localhost:1313/tags/dart/</link>
+    <description>Recent content in Dart on Nagard98</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dragan.vule98@gmail.com (Dragan Vuletic)</managingEditor>
+    <webMaster>dragan.vule98@gmail.com (Dragan Vuletic)</webMaster>
+    <copyright>© 2024 Dragan Vuletic</copyright>
+    <lastBuildDate>Thu, 19 Sep 2024 12:20:38 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/dart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wardrobe Geek</title>
+      <link>http://localhost:1313/projects/wardrobe-geek/</link>
+      <pubDate>Thu, 19 Sep 2024 12:20:38 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/projects/wardrobe-geek/</guid>
+      <description>Prototype of an application for managing your own wardrobe and sharing it with other users. You can create your own outfits from single clothing items or add directly those created by other users. There is also a badge system for users that share the most popular outfits.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/wardrobe-geek/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

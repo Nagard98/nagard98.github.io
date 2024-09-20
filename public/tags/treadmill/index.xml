@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Treadmill on Nagard98</title>
+    <link>http://localhost:1313/tags/treadmill/</link>
+    <description>Recent content in Treadmill on Nagard98</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dragan.vule98@gmail.com (Dragan Vuletic)</managingEditor>
+    <webMaster>dragan.vule98@gmail.com (Dragan Vuletic)</webMaster>
+    <copyright>© 2024 Dragan Vuletic</copyright>
+    <lastBuildDate>Thu, 19 Sep 2024 00:10:56 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/treadmill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monsters &amp; Gold</title>
+      <link>http://localhost:1313/projects/monsters-and-gold/</link>
+      <pubDate>Thu, 19 Sep 2024 00:10:56 +0200</pubDate>
+      <author>dragan.vule98@gmail.com (Dragan Vuletic)</author>
+      <guid>http://localhost:1313/projects/monsters-and-gold/</guid>
+      <description>Exergame developed in Unity during my internship at the HCI Lab of the University of Udine. The game was initially designed for old mobile devices and my job was to implement it with current technolgies and add support for a &lt;strong&gt;VR headset&lt;/strong&gt; and &lt;strong&gt;treadmill&lt;/strong&gt;, allowing for full body movement.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/monsters-and-gold/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
