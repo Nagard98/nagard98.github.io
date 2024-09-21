@@ -104,7 +104,7 @@
     "keywords": ["C/C++","DX11","Rendering"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "89"
+    "wordCount": "192"
   }]
   </script>
 
@@ -522,6 +522,7 @@
     ><a href="https://github.com/nagard98/zorya-renderer" target="_blank">Github Repository</a></span>
 </div>
 
+<p><strong>Warning! It&rsquo;s still a work in progress, far from being stable.</strong></p>
 <p>A DX11 real-time renderer developed as a way to experiment with interesting rendering and engine features. Uses a <strong>Render Graph</strong> to ease the implemenentation of new features by automatically managing transient resources (currently only textures, not constant buffers). One of the main features is the presence of multiple <strong>subsurface scattering</strong> techniques. Planning to also integrate a DX12 backend.</p>
 <p>
     <figure>
@@ -541,6 +542,27 @@
 </p>
 
 
+<h2 class="relative group">Features 
+    <div id="features" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#features" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<ul>
+<li>Deferred Renderer</li>
+<li>Phisically Based Rendering</li>
+<li>Render Graph for management of transient resources (inspired by Frostbite&rsquo;s <a href="https://media.contentapi.ea.com/content/dam/ea/seed/presentations/wihlidal-halcyonarchitecture-notes.pdf" target="_blank">Halcyon Engine</a> )</li>
+<li>Abstract Render Command List</li>
+<li>Subsurface scattering algorithms</li>
+<li>Directional, Point &amp; Spot lights</li>
+<li>Shader Reflection</li>
+</ul>
+
+
 <h2 class="relative group">Subsurface Scattering 
     <div id="subsurface-scattering" class="anchor"></div>
     
@@ -556,7 +578,7 @@
 <li>Jimenez Gaussian <a href="https://doi.org/10.1145/1609967.1609970" target="_blank">[Jim09]</a></li>
 <li>Jimenez Separable <a href="https://doi.org/10.1111/cgf.12529" target="_blank">[Jim15]</a></li>
 <li>Golubev <a href="https://advances.realtimerendering.com/s2018/Efficient%20screen%20space%20subsurface%20scattering%20Siggraph%202018.pdf" target="_blank">[Gol18]</a></li>
-<li>Golubev Plus (an extension developed during my <a href="thesis.pdf">thesis</a> that improves performance)</li>
+<li>Golubev Plus (an extension developed during my <a href="thesis.pdf">thesis</a> that improves performance, while keeping the quality approximately the same)</li>
 </ul>
 <table>
   <thead>
@@ -630,6 +652,50 @@
   <tbody>
   </tbody>
 </table>
+
+
+<h2 class="relative group">Planning 
+    <div id="planning" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#planning" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Some of the features with highest priority that I plan to implement:</p>
+<ul>
+<li>DX12 backend</li>
+<li>Surfel based Global Illumination</li>
+<li>Screen Space Shadows (Contact Shadows)</li>
+<li>SSAO</li>
+<li>SSR</li>
+<li>Volumetric Rendering</li>
+<li>Water Rendering</li>
+<li>Virtual Geometry (maybe)</li>
+</ul>
+
+
+<h2 class="relative group">3rd Party Libraries 
+    <div id="3rd-party-libraries" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3rd-party-libraries" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The external libraries used inside this project:</p>
+<ul>
+<li>assimp</li>
+<li>stb_image</li>
+<li>xxHash</li>
+<li>imgui</li>
+<li>libyaml</li>
+<li>DirectXMath</li>
+</ul>
 
           
           

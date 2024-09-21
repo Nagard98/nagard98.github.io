@@ -105,7 +105,7 @@
     "keywords": ["C++","CGAL","Qt","Computational Geometry"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "2"
+    "wordCount": "106"
   }]
   </script>
 
@@ -531,7 +531,28 @@
     ><a href="https://github.com/nagard98/approx-MVBB" target="_blank">Github Repository</a></span>
 </div>
 
-<table>
+<p>Tool for computing and visualizing an approximate Minimum Volume Bounding Box (MVBB) given a 3D Model. The algorithm is based on the &lsquo;&rsquo;<strong>Efficiently Approximating the Minimum-Volume Bounding Box of a Point Set in Three Dimensions</strong>&rsquo;&rsquo; <a href="https://doi.org/10.1006/jagm.2000.1127" target="_blank">paper</a> from Barequet and Har-Peled. For some internal algorithms I used those provided with the CGAL library.</p>
+<p>Currently supports only 3D models in the PLY format. The window creation and content rendering is done through Qt.</p>
+
+
+<h3 class="relative group">Requirements 
+    <div id="requirements" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#requirements" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>CGAL</li>
+<li>Qt5</li>
+<li>cmake</li>
+</ul>
+<p>The easier way to install CGAL and Qt5 is through vcpkg. It&rsquo;s not necessary to install all Qt components, its sufficient to use this command.</p>
+<pre tabindex="0"><code>vcpkg install cgal[qt]
+</code></pre><table>
   <thead>
       <tr>
           <th style="text-align: center">
